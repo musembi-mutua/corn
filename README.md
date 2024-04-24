@@ -1,2 +1,2 @@
-# corn
+# Cornelius 
 my personal website 
